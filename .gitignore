@@ -1,0 +1,11 @@
+*.class
+*.log
+out/**
+**/target/**
+venv/**
+**/scratch/**
+**/.DS_Store
+**/.idea/**
+**/*.iml
+
+
